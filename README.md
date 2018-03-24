@@ -34,7 +34,7 @@ These were my final parameters:
 
 The throttle value was given by: *max(0.15, .6 - fabs(steer_value) * 3.25)*, which caps out the maximum throttle at 60mph, and the minimum at 15mph. 
 
-Below is a video of the final run. The car had some slight oscillations on straights, but handled turns relatively well, and reached a top speed of 47mph.
+Below is a video of the final run. The car had some slight oscillations on straights, but handled turns pretty well, and reached a top speed of 47mph.
 
 ![PID video run](./final_run.mkv)
 
